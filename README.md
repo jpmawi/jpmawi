@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, me chamo João Pedro.
 
-<!--
-**jpmawi/jpmawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  Sou Farmacêutico e atualmente estudo ciências da computação com enfase particular em dados.
+  
+  Análise de dados, ciência de dados, banco de dados, análises exploratórios, análises descritivas.
+  
+  Também programo em Python.
+  
+  Utilizo principalmente jupyter através do Anaconda e o google colab.
+  
+  Também utilizado os bancos de dados relacionais como MySQL e Oracle SQL.
+<div>
+  
