@@ -6,7 +6,7 @@
   
   Sou estudante de ciências da computação e já possuo uma graduação em farmácia. 
   
-  Gosto particularmente de dados e utilizo do meu tempo e das ferramentas para me aperfeiçõar no assunto.
+  Gosto particularmente de dados e utilizo do meu tempo e das ferramentas para me aperfeiçoar no assunto.
   
   Análise de dados, ciência de dados, banco de dados, análises exploratórias, análises descritivas.
   
